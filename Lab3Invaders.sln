@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3Invaders", "Lab3Invaders\Lab3Invaders.csproj", "{CB7971A9-A9A7-4BE2-B089-ED2BD6AC3F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB7971A9-A9A7-4BE2-B089-ED2BD6AC3F39}.Debug|x86.ActiveCfg = Debug|x86
+		{CB7971A9-A9A7-4BE2-B089-ED2BD6AC3F39}.Debug|x86.Build.0 = Debug|x86
+		{CB7971A9-A9A7-4BE2-B089-ED2BD6AC3F39}.Release|x86.ActiveCfg = Release|x86
+		{CB7971A9-A9A7-4BE2-B089-ED2BD6AC3F39}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
