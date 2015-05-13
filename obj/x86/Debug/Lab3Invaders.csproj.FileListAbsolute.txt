@@ -1,0 +1,12 @@
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\Lab3Invaders\Lab3Invaders\obj\x86\Debug\Lab3Invaders.Form1.resources
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\Lab3Invaders\Lab3Invaders\obj\x86\Debug\Lab3Invaders.Properties.Resources.resources
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\Lab3Invaders\Lab3Invaders\bin\Debug\Lab3Invaders.exe
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\Lab3Invaders\Lab3Invaders\bin\Debug\Lab3Invaders.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\Lab3Invaders\Lab3Invaders\obj\x86\Debug\Lab3Invaders.exe
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\Lab3Invaders\Lab3Invaders\obj\x86\Debug\Lab3Invaders.pdb
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab3Invaders\Lab3Invaders\bin\Debug\Lab3Invaders.exe.manifest
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab3Invaders\Lab3Invaders\bin\Debug\Lab3Invaders.application
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab3Invaders\Lab3Invaders\obj\x86\Debug\Lab3Invaders.csprojResolveAssemblyReference.cache
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab3Invaders\Lab3Invaders\obj\x86\Debug\Lab3Invaders.csproj.GenerateResource.Cache
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab3Invaders\Lab3Invaders\obj\x86\Debug\Lab3Invaders.exe.manifest
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab3Invaders\Lab3Invaders\obj\x86\Debug\Lab3Invaders.application
